@@ -2,7 +2,7 @@
 
 Here I've used a pairs trading strategy based on the co-integration of ETFs, combined with momentum indicators. 
 
-##The principle is as follows:
+**The principle is as follows:**
 
 1. Let's say you have a pair of securities X and Y that have some underlying economic link.(This is especially relevant for sectoral ETFs that consist of a diversified portfolio of assets of the same industry).
 
